@@ -6,8 +6,9 @@
 
 ![image](https://github.com/keshavksingh/WebStoreSolution-Docker/assets/41631964/65beeab3-8652-4dc2-a04c-a258fef4766f)
 
+## Azure Container Registry
 ![image](https://github.com/keshavksingh/WebStoreSolution-Docker/assets/41631964/673919b3-9d9a-4cdc-ae52-71e32b1866d9)
-
+## Azure Web App
 ![image](https://github.com/keshavksingh/WebStoreSolution-Docker/assets/41631964/10e1cd2c-99fc-4a05-a2c3-884a1e8654f1)
 
 ![image](https://github.com/keshavksingh/WebStoreSolution-Docker/assets/41631964/100cd3b9-d351-42f8-aa1a-f03401c155a2)
