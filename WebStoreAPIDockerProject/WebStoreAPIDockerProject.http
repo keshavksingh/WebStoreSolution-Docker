@@ -1,0 +1,6 @@
+@WebStoreAPIDockerProject_HostAddress = http://localhost:5217
+
+GET {{WebStoreAPIDockerProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
